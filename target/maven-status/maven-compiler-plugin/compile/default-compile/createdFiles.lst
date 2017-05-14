@@ -1,0 +1,10 @@
+fr\thombsi\foutoir\servlets\CreateOrderServlet.class
+fr\thombsi\foutoir\beans\Order.class
+fr\thombsi\foutoir\services\OrderService.class
+fr\thombsi\foutoir\servlets\CreateCustomerServlet.class
+fr\thombsi\foutoir\servlets\ListCustomerServlet.class
+fr\thombsi\foutoir\servlets\DeleteServlet.class
+fr\thombsi\foutoir\servlets\ListOrderServlet.class
+fr\thombsi\foutoir\services\CustomerService.class
+fr\thombsi\foutoir\servlets\IndexServlet.class
+fr\thombsi\foutoir\beans\Customer.class
